@@ -10,7 +10,10 @@ class HelloWorld {
 	System.out.println("Hello from Aaron");
 	System.out.println("Hello from Adrian");
         //	b
+    System.out.println("Hello from Bersu");
+    System.out.println("Hello from Ryoma");
         //	c
+    System.out.println("Hello from Colin");
 	System.out.println("Hello from Shihan");
         //	d
         //	e
