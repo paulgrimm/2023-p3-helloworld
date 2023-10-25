@@ -5,7 +5,7 @@ class HelloWorld {
         System.out.println("Hello World!"); 
 
         // added for demonstration
-        
+
         // please add a Hello to you like the following
 
                                 //	a
@@ -28,6 +28,7 @@ class HelloWorld {
                                 //	o
                                 System.out.println("Hello from Oscar");
                                 //	p
+                                System.out.println("Hello Paul"); 
                                 System.out.println("Hello Paul"); 
                                 //	q
                                 //	r
